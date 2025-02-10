@@ -1,4 +1,4 @@
-# 【12月持续更新】国内 ChatGPT 镜像网站免费推荐：支持 GPT-4 和 4o，无需翻墙
+# 【2025年2月持续更新】国内 ChatGPT 镜像网站免费推荐：支持 GPT-4 和 4o，无需翻墙
 
 您是否想在国内使用ChatGPT？为此，我们整理了最新的国内可用 ChatGPT 镜像网站资源。
 
@@ -24,7 +24,7 @@ ChatGPT镜像网站的主要**优势**包括：
 
 # 推荐的 ChatGPT镜像网站：
 
-松鼠AI [songshugpt.com](https://songshugpt.com)
+**松鼠AI [songshugpt.com](https://songshugpt.com)**
 
 该平台自上线以来已接近两年，支持多种版本，包括GPT-4、4o、4o mini和o1。它不仅具备AI绘画功能，用户体验简便，通过扫码即可快速开始使用，非常适合初学者。
 
