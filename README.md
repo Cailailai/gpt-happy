@@ -1,4 +1,4 @@
-# 【2025年4月28日持续更新】国内 ChatGPT 镜像网站免费推荐：支持 GPT-4 和 4o、GPT-o3、deepseek、grok3，无需翻墙
+# 【2025年4月29日持续更新】国内 ChatGPT 镜像网站免费推荐：支持 GPT-4 和 4o、GPT-o3、deepseek、grok3，无需翻墙
 
 您是否想在国内使用ChatGPT？为此，我们整理了最新的国内可用 ChatGPT 镜像网站资源。
 
